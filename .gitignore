@@ -261,14 +261,9 @@ __pycache__/
 *.meta
 
 # Unity asset files
-*.unity
-*.prefab
-*.asset
 *.controller
 *.overrideController
 *.anim
-*.meta
-*.mat
 *.physicMaterial
 *.psd
 *.png
@@ -350,4 +345,4 @@ __pycache__/
 *.scc
 *.wlt
 *.dat
-*.meta
+
